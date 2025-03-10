@@ -1,4 +1,4 @@
-Here's a **README.md** file for your **Denial of Service (DoS) Simulation** project:  
+Here's a **README.md** file for the **Denial of Service (DoS) Simulation** project:  
 
 ---
 
